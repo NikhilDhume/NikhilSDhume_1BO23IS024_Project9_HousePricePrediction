@@ -46,4 +46,5 @@ Data Collection → Preprocessing → Model Training → Prediction → Evaluati
 This project demonstrates the use of Linear Regression for predicting house prices. It highlights the importance of feature selection and data visualization in improving model performance. The model provides a basic yet effective approach for solving regression problems in real-world scenarios.
 
 ## 🔗 Project Link
-https://github.com/yourusername/NikhilSDhume_1BO23IS024_Project7_HousePricePrediction
+NikhilSDhume_1BO23IS024_Project9_HousePricePrediction
+https://github.com/NikhilDhume/NikhilSDhume_1BO23IS024_Project9_HousePricePrediction
